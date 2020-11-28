@@ -11,6 +11,10 @@
 5. (Windows users only) Install required package, `conda install fiona`
 7. Install development version of package, `pip install -e .`
 
+Note: Windows 10 users running build 2004, if you have issues with Numpy 1.19.4 or
+later, please use `pip install numpy==1.19.3` to resolve your issue.
+https://tinyurl.com/y3dm3h86
+
 
 ## Setting up VS Code
 
